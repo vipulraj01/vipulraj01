@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & HTML
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **vipulraj011@gmail.com**
