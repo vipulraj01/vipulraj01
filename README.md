@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Python & HTML
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **vipulraj011@gmail.com**
+- 📫 You can reach me at **vipulraj011@gmail.com**
 
 - ⚡ Fun fact **I am good at PUBG Mobile.**
 
