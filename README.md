@@ -29,8 +29,7 @@
     <a style="padding-right:8px;" href= </a> 
     <a style="padding-right:8px;" href=/> </a>
     <a href= "https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href= "https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/38418118/204755082-a583f034-4535-4fa9-b6bd-c40cc7c28170.png)
-"/> </a>
+    <a href= "https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/fluency/512/css3.png"/> </a>
     <a href= </a> 
     <a href= </a>   
     <a href= </a> 
