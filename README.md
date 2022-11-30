@@ -28,7 +28,8 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href= </a> 
     <a style="padding-right:8px;" href=/> </a>
-    <a href= "https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href= "https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href= "https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://icons8.com/icon/7gdY5qNXaKC0/css3"/> </a>
     <a href= </a> 
     <a href= </a>   
     <a href= </a> 
